@@ -1,0 +1,222 @@
+html{
+	width: 100%;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+
+.navbar-brand img {
+	height: 50px;
+}
+
+@media (min-width: 768px) {
+/*nav選單*/
+	.navbar{
+	padding-left:50px!important;
+	padding-right:50px!important; 
+}
+}
+.navbar-nav {
+	margin-left: 400px;
+}
+
+/*section1*/
+.content {
+	margin-left: 120px;
+	margin-right: 120px;
+}
+
+
+.graysquare  {
+  width: 637px;
+  height: 560px;
+  
+  z-index: 1;
+  position: absolute;
+  float: left;
+  margin-top: 30px;
+}
+
+.foodnottoeat {
+	width: 560px;
+  height: 38px;
+  font-family: Georgia;
+  font-size: 48px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+
+  
+  margin-top: 200px;
+  margin-left: 189px;
+  position: absolute;
+  z-index: 10;
+}
+
+
+.name15 {
+	 width: 510px;
+     height: 337px;
+
+
+position: absolute;
+z-index: 9;
+margin-top: 292px;
+margin-left: 570px;
+}
+
+/*min section2*/
+.whynot {
+	width: 270px;
+  height: 35px;
+  font-family: Georgia;
+  font-size: 36px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+
+
+  position: absolute;
+  z-index: 2;
+  margin-top: 597px;
+  margin-left: 67px;
+}
+
+.text1 {
+	width: 970px;
+  height: 135px;
+  font-family: Georgia;
+  font-size: 30px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 40px;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+
+
+
+  position: absolute;
+   z-index: 3;
+   margin-top: 681px;
+   margin-left: 102px;
+}
+
+/*section2*/
+
+.name10 {
+	width: 454px;
+  height: 302px;
+
+
+  position: absolute;
+   z-index: 4;
+   margin-top: 940px;
+}
+
+.text2 {
+	width: 446px;
+  height: 229px;
+  font-family: Georgia;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 40px;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+
+
+
+  position: absolute;
+   z-index: 5;
+   margin-top: 855px;
+   margin-left: 591px;
+}
+
+.text3 {
+	width: 446px;
+  height: 229px;
+  font-family: Georgia;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 40px;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+
+
+
+position: absolute;
+ z-index: 6;
+ margin-top: 1325px;
+ margin-left: 44px;
+}
+
+.name6 {
+ width: 489px;
+  height: 326px;
+
+
+
+  position: absolute;
+   z-index: 7;
+   margin-top: 1325px;
+   margin-left: 591px;
+}
+.name5 {
+width: 450px;
+  height: 313px;
+
+
+
+position: absolute;
+ z-index: 8;
+ margin-top: 1690px;
+}
+.text4 {
+	width: 446px;
+  height: 229px;
+  font-family: Georgia;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 40px;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+
+  position: absolute;
+   z-index: 11;
+   margin-top: 1690px;
+   margin-left: 591px;
+}
+
+.footer {
+	width: 100%;
+  height: 120px;
+  border: solid 0.4px #000000;
+  background-color: #ffffff;
+
+	position: absolute;
+	z-index: 12;
+	margin-top: 2100px;
+}
+
+.copyright {
+	text-align: center;
+	margin-top: 40px;
+}
