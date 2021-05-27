@@ -1,5 +1,6 @@
 html{
 	width: 100%;
+	
 }
 
 * {
@@ -24,8 +25,8 @@ html{
 
 /*section1*/
 .content {
-	margin-left: 120px;
-	margin-right: 120px;
+	margin-left: 140px;
+	margin-right: 140px;
 }
 
 
@@ -43,7 +44,7 @@ html{
 	width: 560px;
   height: 38px;
   font-family: Georgia;
-  font-size: 48px;
+  
   font-weight: normal;
   font-stretch: normal;
   font-style: normal;
@@ -120,11 +121,11 @@ margin-left: 570px;
 
   position: absolute;
    z-index: 4;
-   margin-top: 940px;
+   margin-top: 900px;
 }
 
 .text2 {
-	width: 446px;
+	width: 600px;
   height: 229px;
   font-family: Georgia;
   font-size: 24px;
@@ -140,12 +141,12 @@ margin-left: 570px;
 
   position: absolute;
    z-index: 5;
-   margin-top: 855px;
-   margin-left: 591px;
+   margin-top: 880px;
+   margin-left: 510px;
 }
 
 .text3 {
-	width: 446px;
+	width: 600px;
   height: 229px;
   font-family: Georgia;
   font-size: 24px;
@@ -161,8 +162,8 @@ margin-left: 570px;
 
 position: absolute;
  z-index: 6;
- margin-top: 1325px;
- margin-left: 44px;
+ margin-top: 1300px;
+ margin-left: 0px;
 }
 
 .name6 {
@@ -173,8 +174,8 @@ position: absolute;
 
   position: absolute;
    z-index: 7;
-   margin-top: 1325px;
-   margin-left: 591px;
+   margin-top: 1260px;
+   margin-left: 650px;
 }
 .name5 {
 width: 450px;
@@ -184,10 +185,10 @@ width: 450px;
 
 position: absolute;
  z-index: 8;
- margin-top: 1690px;
+ margin-top: 1660px;
 }
 .text4 {
-	width: 446px;
+	width: 600px;
   height: 229px;
   font-family: Georgia;
   font-size: 24px;
@@ -202,7 +203,7 @@ position: absolute;
   position: absolute;
    z-index: 11;
    margin-top: 1690px;
-   margin-left: 591px;
+   margin-left: 510px;
 }
 
 .footer {
